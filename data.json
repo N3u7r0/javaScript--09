@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "tipo": "planta",
+        "lvl": "5",
+        "ataque": "latigo cepa",
+        "pokedex": "N°001",
+        "evolucion": "Ivysaur"
+    },
+    {
+        "id": 2,
+        "nombre": "Charmander",
+        "tipo": "fuego",
+        "lvl": "5",
+        "ataque": "Llamnarada",
+        "pokedex": "N°004",
+        "evolucion": "Charmeleon"
+    },
+    {
+        "id": 4,
+        "nombre": "Squirle",
+        "tipo": "agua",
+        "lvl": "5",
+        "ataque": "Chorro de agua",
+        "pokedex": "N°007",
+        "evolucion": "Wartortle"
+    },
+    {
+        "id": 5,
+        "nombre": "Pikachu",
+        "tipo": "electricidad",
+        "lvl": "17",
+        "ataque": "impactrueno",
+        "pokedex": "N°025",
+        "evolucion": "Raichu"
+    }
+]
